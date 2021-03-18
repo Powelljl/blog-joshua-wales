@@ -3,6 +3,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="/images/favicon.svg">
+    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "88762441514c4654841bd2f50f61d8f7"}'></script><!-- End Cloudflare Web Analytics -->
     {{ $style := resources.Get "scss/global.scss" | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     {{ $prism := resources.Get "css/prism.css" }}
