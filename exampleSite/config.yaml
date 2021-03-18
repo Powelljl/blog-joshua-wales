@@ -1,14 +1,11 @@
-baseURL: "https://example.com"
-languageCode: "en-us"
-title: "Hugo Novela"
+baseURL: "https://blog.joshua.wales"
+languageCode: "en-gb"
+title: "Josh's Blog"
 pygmentsstyle: 'monokai'
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+  twitter: "https://twitter.com/joshpowell100"
+  github: "https://github.com/Powelljl"
+  linkedin: "https://www.linkedin.com/in/joshua-lloyd-powell/"
 taxonomies:
   author: authors
