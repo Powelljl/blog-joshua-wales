@@ -30,5 +30,3 @@ fields:
   type: tag_list
   default: []
   label: Authors
-pages:
-- content/post/moving-from-hosted-freepbx-to-yay-com.md
