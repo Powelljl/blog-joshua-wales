@@ -1,7 +1,7 @@
 +++
-avatar = "/static/images/7103125.jpg"
+avatar = "/images/7103125.jpg"
 bio = ""
-draft = true
+draft = false
 featured = true
 social = []
 title = "Josh Powell"
