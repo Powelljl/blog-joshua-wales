@@ -56,6 +56,8 @@ Now there are a couple tweaks that you can apply to your workers site to make it
 
 Unlike your own webserver, you can't simply edit the header config on a Cloudflare page so you will need to deploy the following script on a Worker to achieve an A+ on [securityheaders.com](https://Securityheaders.com)
 
+![HTTP header code ](https://share.hoedab.tech/21/04/carbon%20%281%29.png)[Link to code](https://gist.github.com/Powelljl/4a24c08d3414234e5df2ea187a78762e)
+
     let securityHeaders = {
     	"Content-Security-Policy" : "upgrade-insecure-requests",
     	"Strict-Transport-Security" : "max-age=63072000",
