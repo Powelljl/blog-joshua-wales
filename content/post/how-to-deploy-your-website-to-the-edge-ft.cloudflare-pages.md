@@ -57,3 +57,4 @@ Now there are a couple tweaks that you can apply to your workers site to make it
 Unlike your own webserver, you can't simply edit the header config on a Cloudflare page so you will need to deploy the following script on a Worker to achieve an A+ on [securityheaders.com](https://Securityheaders.com)
 
 {{< workers-headers-code >}}
+{{< /workers-headers-code >}}
