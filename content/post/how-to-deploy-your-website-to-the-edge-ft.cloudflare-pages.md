@@ -32,7 +32,7 @@ You next have to specify weather you want the project to be open to everyone, or
 
 There is no need to add a README / .gitignore / licence for the purposes of getting us setup for Cloudflare pages.
 
-    https://share.hoedab.tech/21/04/chrome_S08vOm8aPK.png
+[//]: <> (https://share.hoedab.tech/21/04/chrome_S08vOm8aPK.png)
 
 ### 2. Commit & Push your website
 
